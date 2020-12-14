@@ -1,0 +1,3 @@
+#Teste BPA
+
+O programa pode ser escrito em qualquer linguagem, embora aqui nós utilizemos mais Python. O escopo do teste se baseia em abrir o site da amazon, pesquisar por iphone, pegar os resultados da primeira página (nome e preço) e criar uma planilha Excel com esses dados.O programa pode ser escrito em qualquer linguagem, embora aqui nós utilizemos mais Python. O escopo do teste se baseia em abrir o site da amazon, pesquisar por iphone, pegar os resultados da primeira página (nome e preço) e criar uma planilha Excel com esses dados.
